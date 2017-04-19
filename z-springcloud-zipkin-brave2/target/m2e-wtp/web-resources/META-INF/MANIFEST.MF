@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: springcloud-zipkin
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.jg
+Build-Jdk: 1.7.0_25
+Built-By: lzc
+Created-By: Maven Integration for Eclipse
+

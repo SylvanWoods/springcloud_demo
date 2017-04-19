@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: zipkin-brave
+Implementation-Version: 1.3.6.RELEASE
+Implementation-Vendor-Id: com.jg.zipkin
+Build-Jdk: 1.7.0_25
+Built-By: lzc
+Created-By: Maven Integration for Eclipse
+
